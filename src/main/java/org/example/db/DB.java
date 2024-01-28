@@ -35,7 +35,7 @@ public class DB {
 
     private static Properties loadProperties() {
         try {
-            try (FileInputStream fs = new FileInputStream("C:\\IntelliJWorkspace\\java-jdbc-vanilla\\src\\main\\resources\\db.properties")) {
+            try (FileInputStream fs = new FileInputStream("C:\\IntelliJWorkspace\\java-jdbc-dao\\src\\main\\resources\\db.properties")) {
                 Properties properties = new Properties();
                 properties.load(fs);
                 return properties;
