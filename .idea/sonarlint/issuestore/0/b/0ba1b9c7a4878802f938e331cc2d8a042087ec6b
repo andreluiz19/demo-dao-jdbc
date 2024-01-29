@@ -1,6 +1,0 @@
-
-_
-java:S1854"=Remove this useless assignment to local variable "sellerDAO".(§ˆÙæúÿÿÿÿ8·¼ íÔ1
-P
-java:S1481".Remove this unused "sellerDAO" local variable.(§ˆÙæúÿÿÿÿ8¹¼ íÔ1
-L	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8‹©ëÔ1
